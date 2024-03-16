@@ -1,5 +1,7 @@
 # 24Seven Expansion Analytics Project
 
+![Sales Forecasting Visualization](https://github.com/Farahhoque/SalesForecastingVisualization/blob/main/gif.gif)
+
 ## Overview
 
 This project supports the strategic expansion efforts of 24Seven, a leading Canadian convenience store chain planning to open its 11th location. We developed a custom Power BI dashboard to analyze business performance, client demographics, and forecast sales.
