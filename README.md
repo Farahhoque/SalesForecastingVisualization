@@ -1,4 +1,4 @@
-# 24Seven Expansion Analytics Project
+# 24Seven Expansion Sales Forecast Project
 
 ![Sales Forecasting Visualization](https://github.com/Farahhoque/SalesForecastingVisualization/blob/main/gif.gif)
 
